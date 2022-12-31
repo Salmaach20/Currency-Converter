@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name"> Convertisseur Devise "Aya Salma" </string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="currency_to_be_converted">Devise à convertir</string>
+    <string name="from_currency">De :</string>
+    <string name="to_currency">En :</string>
+    <string name="convert">Convert</string>
+    <string name="result">Résultat</string>
+    <string name="resultat">Résultat</string>
+</resources>
